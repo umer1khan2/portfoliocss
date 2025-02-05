@@ -3,7 +3,7 @@ export default function Header() {
         <header>
             <nav>
                 <div className="container1" id="Hdiv1">
-                    <h1>Umer's Portfolio</h1>
+                    <h1>Umer&apos;s Portfolio</h1>
                 </div>
 
                 <div className="container1" id="Hdiv2">
